@@ -1,0 +1,8 @@
+seguir el video
+https://www.youtube.com/watch?v=QTMeW_HJ490
+
+Descaragar los plugin que pide adeamas
+
+https://py-ipv8.readthedocs.io/en/latest/preliminaries/install_libsodium.html
+
+link video
