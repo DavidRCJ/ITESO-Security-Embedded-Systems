@@ -1,3 +1,5 @@
+#Correr en copilador ONLINE
+
 from cryptography.fernet import Fernet
 # Genera una clave de cifrado aleatoria
 key = Fernet.generate_key()
