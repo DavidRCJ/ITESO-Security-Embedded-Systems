@@ -1,0 +1,11 @@
+11:47:37 **** Incremental Build of configuration Debug for project lpcxpresso55s69_Blinky_Led_led_blinky ****
+make -r -j16 all 
+make[1]: Nothing to be done for 'main-build'.
+Performing post-build steps
+arm-none-eabi-size "lpcxpresso55s69_Blinky_Led_led_blinky.axf"; # arm-none-eabi-objcopy -v -O binary "lpcxpresso55s69_Blinky_Led_led_blinky.axf" "lpcxpresso55s69_Blinky_Led_led_blinky.bin" ; # checksum -p LPC55S69 -d "lpcxpresso55s69_Blinky_Led_led_blinky.bin";
+   text	   data	    bss	    dec	    hex	filename
+  11304	      4	   8460	  19768	   4d38	lpcxpresso55s69_Blinky_Led_led_blinky.axf
+ 
+
+11:47:37 Build Finished. 0 errors, 0 warnings. (took 493ms)
+

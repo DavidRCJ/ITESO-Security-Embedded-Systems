@@ -1,0 +1,12 @@
+C:\Users\UIF87839\Documents\MCUXpressoIDE_11.8.1_1197\workspace\lpcxpresso55s69_BenchMark_mbedtls_benchmark\mbedtls\include/mbedtls/pk.h:646:36:mbedtls_pk_rsa	16	static
+../mbedtls/library/psa_crypto_rsa.c:52:21:psa_check_rsa_key_byte_aligned	40	static
+../mbedtls/library/psa_crypto_rsa.c:69:14:mbedtls_psa_rsa_load_representation	48	static
+../mbedtls/library/psa_crypto_rsa.c:129:14:mbedtls_psa_rsa_import_key	40	static
+../mbedtls/library/psa_crypto_rsa.c:166:14:mbedtls_psa_rsa_export_key	40	static
+../mbedtls/library/psa_crypto_rsa.c:219:14:mbedtls_psa_rsa_export_public_key	40	static
+../mbedtls/library/psa_crypto_rsa.c:249:21:psa_rsa_read_exponent	24	static
+../mbedtls/library/psa_crypto_rsa.c:277:14:mbedtls_psa_rsa_generate_key	216	static
+../mbedtls/library/psa_crypto_rsa.c:322:21:psa_rsa_decode_md_type	32	static
+../mbedtls/library/psa_crypto_rsa.c:352:14:mbedtls_psa_rsa_sign_hash	56	static
+../mbedtls/library/psa_crypto_rsa.c:426:12:rsa_pss_expected_salt_len	40	static
+../mbedtls/library/psa_crypto_rsa.c:448:14:mbedtls_psa_rsa_verify_hash	80	static

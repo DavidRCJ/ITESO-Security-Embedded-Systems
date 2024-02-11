@@ -1,0 +1,11 @@
+C:\Users\UIF87839\Documents\MCUXpressoIDE_11.8.1_1197\workspace\lpcxpresso55s69_BenchMark_mbedtls_benchmark\mbedtls\include/mbedtls/pk.h:646:36:mbedtls_pk_rsa	16	static
+C:\Users\UIF87839\Documents\MCUXpressoIDE_11.8.1_1197\workspace\lpcxpresso55s69_BenchMark_mbedtls_benchmark\mbedtls\include/mbedtls/pk.h:669:36:mbedtls_pk_ec	16	static
+../mbedtls/library/pkwrite.c:66:12:pk_write_rsa_pubkey	56	static
+../mbedtls/library/pkwrite.c:108:12:pk_write_ec_pubkey	176	static
+../mbedtls/library/pkwrite.c:136:12:pk_write_ec_param	40	static
+../mbedtls/library/pkwrite.c:156:12:pk_write_ec_private	104	static
+../mbedtls/library/pkwrite.c:175:5:mbedtls_pk_write_pubkey	32	static
+../mbedtls/library/pkwrite.c:220:5:mbedtls_pk_write_pubkey_der	64	static
+../mbedtls/library/pkwrite.c:312:5:mbedtls_pk_write_key_der	72	static
+../mbedtls/library/pkwrite.c:565:5:mbedtls_pk_write_pubkey_pem	1112	static
+../mbedtls/library/pkwrite.c:588:5:mbedtls_pk_write_key_pem	2920	static

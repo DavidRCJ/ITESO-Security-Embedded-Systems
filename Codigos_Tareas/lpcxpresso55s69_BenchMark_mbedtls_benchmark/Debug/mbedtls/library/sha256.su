@@ -1,0 +1,14 @@
+../mbedtls/library/sha256.c:43:6:mbedtls_sha256_init	16	static
+../mbedtls/library/sha256.c:50:6:mbedtls_sha256_free	16	static
+../mbedtls/library/sha256.c:59:6:mbedtls_sha256_clone	16	static
+../mbedtls/library/sha256.c:73:5:mbedtls_sha256_starts_ret	8	static
+../mbedtls/library/sha256.c:110:6:mbedtls_sha256_starts	16	static
+../mbedtls/library/sha256.c:164:5:mbedtls_internal_sha256_process	320	static
+../mbedtls/library/sha256.c:253:6:mbedtls_sha256_process	16	static
+../mbedtls/library/sha256.c:266:5:mbedtls_sha256_update_ret	40	static
+../mbedtls/library/sha256.c:321:6:mbedtls_sha256_update	24	static
+../mbedtls/library/sha256.c:334:5:mbedtls_sha256_finish_ret	32	static
+../mbedtls/library/sha256.c:399:6:mbedtls_sha256_finish	16	static
+../mbedtls/library/sha256.c:413:5:mbedtls_sha256_ret	136	static
+../mbedtls/library/sha256.c:447:6:mbedtls_sha256	24	static
+../mbedtls/library/sha256.c:511:5:mbedtls_sha256_self_test	184	static

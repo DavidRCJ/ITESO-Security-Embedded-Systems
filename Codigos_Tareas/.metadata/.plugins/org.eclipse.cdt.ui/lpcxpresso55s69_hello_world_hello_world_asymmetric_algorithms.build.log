@@ -1,0 +1,11 @@
+19:04:30 **** Incremental Build of configuration Debug for project lpcxpresso55s69_hello_world_hello_world_asymmetric_algorithms ****
+make -r -j16 all 
+make[1]: Nothing to be done for 'main-build'.
+Performing post-build steps
+arm-none-eabi-size "lpcxpresso55s69_hello_world_hello_world_asymmetric_algorithms.axf"; # arm-none-eabi-objcopy -v -O binary "lpcxpresso55s69_hello_world_hello_world_asymmetric_algorithms.axf" "lpcxpresso55s69_hello_world_hello_world_asymmetric_algorithms.bin" ; # checksum -p LPC55S69 -d "lpcxpresso55s69_hello_world_hello_world_asymmetric_algorithms.bin";
+   text	   data	    bss	    dec	    hex	filename
+  54940	    728	   8488	  64156	   fa9c	lpcxpresso55s69_hello_world_hello_world_asymmetric_algorithms.axf
+ 
+
+19:04:31 Build Finished. 0 errors, 0 warnings. (took 639ms)
+

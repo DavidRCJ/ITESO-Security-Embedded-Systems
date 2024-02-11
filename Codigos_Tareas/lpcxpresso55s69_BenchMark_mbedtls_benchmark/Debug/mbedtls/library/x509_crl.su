@@ -1,0 +1,10 @@
+C:\Users\UIF87839\Documents\MCUXpressoIDE_11.8.1_1197\workspace\lpcxpresso55s69_BenchMark_mbedtls_benchmark\mbedtls\include/mbedtls/error.h:159:19:mbedtls_error_add	16	static
+../mbedtls/library/x509_crl.c:62:12:x509_crl_get_version	32	static
+../mbedtls/library/x509_crl.c:87:12:x509_get_crl_ext	40	static
+../mbedtls/library/x509_crl.c:171:12:x509_get_crl_entry_ext	32	static
+../mbedtls/library/x509_crl.c:226:12:x509_get_entries	48	static
+../mbedtls/library/x509_crl.c:294:5:mbedtls_x509_crl_parse_der	88	static
+../mbedtls/library/x509_crl.c:516:5:mbedtls_x509_crl_parse	64	static
+../mbedtls/library/x509_crl.c:605:5:mbedtls_x509_crl_info	72	static
+../mbedtls/library/x509_crl.c:679:6:mbedtls_x509_crl_init	16	static
+../mbedtls/library/x509_crl.c:687:6:mbedtls_x509_crl_free	40	static

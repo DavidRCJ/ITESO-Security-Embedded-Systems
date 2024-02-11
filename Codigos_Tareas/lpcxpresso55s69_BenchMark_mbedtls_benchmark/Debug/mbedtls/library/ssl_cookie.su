@@ -1,0 +1,8 @@
+C:\Users\UIF87839\Documents\MCUXpressoIDE_11.8.1_1197\workspace\lpcxpresso55s69_BenchMark_mbedtls_benchmark\mbedtls\include/mbedtls/ssl_internal.h:333:19:mbedtls_ssl_chk_buf_ptr	16	static
+../mbedtls/library/ssl_cookie.c:70:6:mbedtls_ssl_cookie_init	16	static
+../mbedtls/library/ssl_cookie.c:83:6:mbedtls_ssl_cookie_set_timeout	8	static
+../mbedtls/library/ssl_cookie.c:88:6:mbedtls_ssl_cookie_free	16	static
+../mbedtls/library/ssl_cookie.c:99:5:mbedtls_ssl_cookie_setup	64	static
+../mbedtls/library/ssl_cookie.c:129:12:ssl_cookie_hmac	56	static
+../mbedtls/library/ssl_cookie.c:154:5:mbedtls_ssl_cookie_write	48	static
+../mbedtls/library/ssl_cookie.c:199:5:mbedtls_ssl_cookie_check	80	static

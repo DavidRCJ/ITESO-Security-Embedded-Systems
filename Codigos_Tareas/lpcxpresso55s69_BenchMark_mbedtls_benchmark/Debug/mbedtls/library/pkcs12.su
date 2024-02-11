@@ -1,0 +1,7 @@
+C:\Users\UIF87839\Documents\MCUXpressoIDE_11.8.1_1197\workspace\lpcxpresso55s69_BenchMark_mbedtls_benchmark\mbedtls\include/mbedtls/error.h:159:19:mbedtls_error_add	16	static
+../mbedtls/library/pkcs12.c:48:12:pkcs12_parse_pbe_params	40	static
+../mbedtls/library/pkcs12.c:88:12:pkcs12_pbe_derive_key_iv	336	static
+../mbedtls/library/pkcs12.c:134:5:mbedtls_pkcs12_pbe_sha1_rc4_128	16	static
+../mbedtls/library/pkcs12.c:175:5:mbedtls_pkcs12_pbe	168	static
+../mbedtls/library/pkcs12.c:244:13:pkcs12_fill_buffer	32	static
+../mbedtls/library/pkcs12.c:266:5:mbedtls_pkcs12_derivation	656	static
