@@ -1,0 +1,5 @@
+C:\Users\UIF87839\Documents\MCUXpressoIDE_11.8.1_1197\workspace\SHA_512_PASSWORD\drivers/fsl_power.h:398:20:POWER_SetBodVbatLevel	16	static
+../source/hello_world.c:31:6:resetPasswordBuffer	24	static
+../source/hello_world.c:39:6:calculateSHA512	24	static
+../source/hello_world.c:46:5:compareDigests	32	static
+../source/hello_world.c:58:5:main	208	static
